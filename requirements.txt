@@ -1,5 +1,9 @@
+bytez
 streamlit
+bytez
+pandas
+numpy
 scikit-learn
-nltk
+
 
 
